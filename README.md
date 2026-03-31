@@ -31,8 +31,8 @@ I'm a developer who lives at the intersection of **performance** and **security*
 
 ### 📊 Vital Signs
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Monsieur-Gray&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monsieur-Gray&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px"/>
 </p>
 
 ---
@@ -45,5 +45,5 @@ I'm a developer who lives at the intersection of **performance** and **security*
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-garud-a557b03b5/)
+
