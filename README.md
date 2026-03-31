@@ -31,8 +31,15 @@ I'm a developer who lives at the intersection of **performance** and **security*
 
 ### 📊 Vital Signs
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Monsieur-Gray&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monsieur-Gray&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Monsieur-Gray&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ishaan's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monsieur-Gray&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Monsieur-Gray&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
@@ -46,4 +53,4 @@ I'm a developer who lives at the intersection of **performance** and **security*
 
 ### 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-garud-a557b03b5/)
-
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
