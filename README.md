@@ -30,16 +30,17 @@ I'm a developer who lives at the intersection of **performance** and **security*
 ---
 
 ### 📊 Vital Signs
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monsieur-Gray&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ishaan's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Monsieur-Gray&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monsieur-Gray&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monsieur-Gray&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Monsieur-Gray&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Monsieur-Gray&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
