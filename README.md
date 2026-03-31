@@ -21,27 +21,30 @@ I'm a developer who lives at the intersection of **performance** and **security*
 
 ---
 
+### 📊 Vital Signs (The Dual-Engine)
+
+> [!TIP]
+> I maintain two active environments: **@IshaanGarud** for core software development and **@Monsieur-Gray** for security research and indie game labs.
+
+#### 🏛️ Main Profile: @IshaanGarud
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=IshaanGarud&show_icons=true&theme=tokyonight&hide_border=true" alt="Ishaan Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanGarud&layout=compact&theme=tokyonight&hide_border=true" alt="Ishaan Langs" width="48%" />
+</p>
+
+#### 🧪 Research Lab: @Monsieur-Gray
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Monsieur-Gray&show_icons=true&theme=tokyonight&hide_border=true" alt="Gray Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monsieur-Gray&layout=compact&theme=tokyonight&hide_border=true" alt="Gray Langs" width="48%" />
+</p>
+
+---
+
 ### 🧩 Exploring Paradigms
 * **Procedural:** Writing lean, high-performance C.
 * **OOP:** Designing scalable systems in Unity and C++.
 * **Functional:** Exploring safety and concurrency in Rust.
 * **Mathematics:** Applying linear algebra and discrete math to game physics and crypto.
-
----
-
-### 📊 Vital Signs
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Monsieur-Gray&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monsieur-Gray&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Monsieur-Gray&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
@@ -54,4 +57,5 @@ I'm a developer who lives at the intersection of **performance** and **security*
 
 ### 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-garud-a557b03b5/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![GitHub Main](https://img.shields.io/badge/GitHub-Main-181717?style=for-the-badge&logo=github)](https://github.com/IshaanGarud)
+[![GitHub Lab](https://img.shields.io/badge/GitHub-Lab-gray?style=for-the-badge&logo=github)](https://github.com/Monsieur-Gray)
